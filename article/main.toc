@@ -1,0 +1,19 @@
+\contentsline {section}{摘要}{I}{Doc-Start}%
+\contentsline {section}{\numberline {第一章}引言}{1}{section.1}%
+\contentsline {section}{\numberline {第二章}东北大学百年发展与使命传承}{2}{section.2}%
+\contentsline {section}{\numberline {第三章}习近平总书记教育思想与大学使命}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}教育的战略地位}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}中国特色世界一流大学建设}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}立德树人的根本任务}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {第四章}东北大学案例与新时代启示}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}坚持以国家战略需求为导向}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}强化爱国主义教育与创新精神培养}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}推动人才培养模式改革}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}传承与发展相结合}{4}{subsection.4.4}%
+\contentsline {section}{\numberline {第五章}新时代大学生的责任与担当}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}坚定理想信念，厚植家国情怀}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}勇担科技创新使命}{5}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}提升综合素质与能力}{5}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}服务社会，勇于实践}{5}{subsection.5.4}%
+\contentsline {section}{总结}{6}{subsection.5.4}%
+\contentsline {section}{参考文献}{7}{subsection.5.4}%
